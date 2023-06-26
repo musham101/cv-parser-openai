@@ -17,9 +17,6 @@ COPY cv_upload_response_page.py .
 
 # Expose the default Streamlit port
 EXPOSE 8501
-EXPOSE 8502
-EXPOSE 8503
-EXPOSE 8504
 
 # Set the entry point for the container
 CMD ["streamlit", "run", "cv_upload_response_page.py"]
