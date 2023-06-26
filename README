@@ -14,9 +14,9 @@ To run the Python program locally, please follow the steps below:
 
 4. (Optional) Set up a virtual environment for the program. While this step is not mandatory, it is generally recommended to isolate dependencies for different projects. To set up a virtual environment, you can use a tool like `venv`. Run the following command:
 
-```shell
+   ```shell
    python -m venv venv
-```
+   ```
 
 5. Activate the virtual environment. The command to activate the virtual environment depends on your operating system:
 
